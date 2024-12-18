@@ -1,0 +1,4 @@
+.env
+json/gcp-credentials.json
+__pycache__/
+re_con_gspread.py
